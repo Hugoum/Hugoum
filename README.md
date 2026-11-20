@@ -10,7 +10,7 @@ I'm **Hugo Ricra** (`@Hugoum`), a **DAM** student passionate about **programming
 
 ### 💻 Tech Stack
 
-* **Languages & Web:** Java, HTML5, Dart
+* **Languages & Web:** Java, HTML5, CSS, Dart
 * **Tools, IDEs & Version Control:** Apache NetBeans, Visual Studio Code, Git, GitHub
 
 ---
