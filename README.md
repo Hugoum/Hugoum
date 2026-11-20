@@ -1,4 +1,4 @@
-## Hi There👋
+## Hi there👋
 
 I'm a **DAM** student passionate about **programming**, **AI**, **gamification**, and **clean code design**.
 
